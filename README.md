@@ -2,7 +2,7 @@
 - 👀 I’m interested in Supply Chain management
 - 🌱 I’m currently learning Analytics tools
 - 💞️ I’m looking to collaborate on Python and Web development
-- 📫 Reach me vai nivas161097@gmail.com
+- 📫 Reach me via nivas161097@gmail.com 
 
 <!---
 Srinivasr248/Srinivasr248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
